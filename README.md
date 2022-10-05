@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mudita Shakya</h1>
+
+
+<h2 align="center">A second year cse student with keen interest in Web Devlopment</h2>
 <img src="https://dxbcode.com/assets/images/index-meta.gif" width="321">
-
-<h3 align="center">A second year cse student with keen interest in Web Devlopment</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muditashakya&label=Profile%20views&color=0e75b6&style=flat" alt="muditashakya" /> </p>
 
 - 📫 How to reach me **mudita123ms@gmail.com**
