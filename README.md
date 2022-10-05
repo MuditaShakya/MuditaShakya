@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudita Shakya</h1>
+<img src="https://dxbcode.com/assets/images/index-meta.gif" width="321">
 
 <h3 align="center">A second year cse student with keen interest in Web Devlopment</h3>
 
